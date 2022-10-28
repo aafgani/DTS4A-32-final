@@ -9,7 +9,7 @@ Final project ini adalah movie app. Movie App ini memiliki fitur sbb :
 - watchlist untuk menyimpan film yg disuka berdsarakan kategori. watchlist ini ditampilkan dalam bentuk table yg dapat disorting 
 - submit form ke custom api (link backend : https://github.com/aafgani/DTS4A-32-final-backend)
 
-Link live app : https://heroic-cajeta-3720fe.netlify.app/
+Link live app : https://heroic-cajeta-3720fe.netlify.app/home
 
 Ketentuan lengkap bisa dilihat di [Final Project Guidelines](https://docs.google.com/document/d/122KyWNQ4xxU4aFwWbM4vIfH7LM4AH2CZEZa3YsEHjCk). 
 
